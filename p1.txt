@@ -4,6 +4,7 @@ am a dancer
 am a youtuber 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 i love to dance 
 =======
 i want to to be famous 
@@ -18,3 +19,6 @@ i want to to be famous
 =======
 helloooooo
 >>>>>>> 7574943 (Update p1.txt)
+=======
+i want to to be famous 
+>>>>>>> 2dbeda0 (done)

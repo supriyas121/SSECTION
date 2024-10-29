@@ -10,6 +10,7 @@ i love to dance
 i want to to be famous 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 7574943 (Update p1.txt)
 =======
 >>>>>>> parent of 7574943 (Update p1.txt)
@@ -22,3 +23,6 @@ helloooooo
 =======
 i want to to be famous 
 >>>>>>> 2dbeda0 (done)
+=======
+helloooooo
+>>>>>>> 7574943 (Update p1.txt)

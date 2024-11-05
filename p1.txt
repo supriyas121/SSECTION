@@ -2,4 +2,8 @@ hiiii guysss
 myself supriya
 am a dancer
 am a youtuber 
+<<<<<<< HEAD
 i love to dance 
+=======
+i want to to be famous 
+>>>>>>> parent of 7574943 (Update p1.txt)

@@ -6,4 +6,7 @@ am a youtuber
 i love to dance 
 =======
 i want to to be famous 
+<<<<<<< HEAD
+>>>>>>> parent of 7574943 (Update p1.txt)
+=======
 >>>>>>> parent of 7574943 (Update p1.txt)
